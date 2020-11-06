@@ -1,6 +1,4 @@
-HEllo World.......
-
-
+HEllo World....
 
 Change 1:- Change for login feature,Enhancemnet in login feature 
 
@@ -14,12 +12,16 @@ Change 4:- Fixing bug1
 
 Change 5:- For fixing bug2
 
-Change 6: By team mate
+Change 6:- By team mate
 
-Change 7: Enhancement 1
+Change 7:- Enhancement 1
 
-Change 8: Push to origin master from local repo
+Change 8:- Push to origin master from local repo
 
-Change 9: Data from remote to local
+Change 9:- Data from remote to local
+
+change 10:- On local master WI8
+
+Change 11:- Conflict resolved
 ==========================================
 
