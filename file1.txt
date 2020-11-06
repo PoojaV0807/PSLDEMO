@@ -23,5 +23,7 @@ Change 9:- Data from remote to local
 change 10:- On local master WI8
 
 Change 11:- Conflict resolved
+
+Change 12:-Test simple pull oertn from remote to local
 ==========================================
 
