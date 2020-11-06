@@ -3,4 +3,6 @@ HEllo World.......
 
 Change for login feature
 
-Cjange 2: Fixing bug
+Change 2: Fixing bug1
+
+Change 3: For fixing bug2
